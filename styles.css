@@ -95,7 +95,7 @@ h1 {
         and (-webkit-device-pixel-ratio : 2) {
           h1 {
             font-size: 12rem;
-            padding: 20% 0 0 0;
+            padding: 15% 0 0 0;
           }
 
           #level-title {

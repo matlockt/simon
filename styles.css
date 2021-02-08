@@ -19,6 +19,10 @@ h1 {
   padding: 0 0 2% 0;
 }
 
+#level-title:hover {
+cursor: pointer;
+}
+
 .container {
   display: block;
   width: 50%;
